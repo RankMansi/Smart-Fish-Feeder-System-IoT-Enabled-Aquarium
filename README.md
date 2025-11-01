@@ -52,8 +52,6 @@ This project brings intelligence to the process by combining **AI-based object d
 ---
 
 ## Circuit Design
-<p align="center">
   <img src="assets/image.png" alt="Setup" width="400">
-  <img src="assets/image2.png" alt="Servo Action" width="400">
-</p>
+  <img src="assets/image2.png" alt="Servo Action" width="500">
   
