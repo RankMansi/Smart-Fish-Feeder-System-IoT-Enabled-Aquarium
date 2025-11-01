@@ -50,3 +50,8 @@ This project brings intelligence to the process by combining **AI-based object d
 - *(Future)* **Blynk** - For IoT-based mobile control.
 
 ---
+
+## Circuit Design
+![Circuit Design](assets/image.png)
+![Circuit Design](assets/image2.png)
+  
