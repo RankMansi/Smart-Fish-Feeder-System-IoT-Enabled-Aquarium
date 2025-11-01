@@ -1,7 +1,7 @@
-# 🐠 Smart Fish Feeder System — AI + IoT Based Automation
+# 🐠 Smart Fish Feeder System - AI + IoT Based Automation
 
 An ongoing project that automates fish feeding using **computer vision (OpenCV + YOLO)** and **microcontroller-based control (Arduino)**.  
-The goal is to detect the number of fish in an aquarium using a **custom-trained fish detection model (from Roboflow)** and rotate a **servo motor** that many times to dispense food — ensuring accurate, efficient, and adaptive feeding.
+The goal is to detect the number of fish in an aquarium using a **custom-trained fish detection model (from Roboflow)** and rotate a **servo motor** that many times to dispense food - ensuring accurate, efficient, and adaptive feeding.
 
 ---
 
@@ -42,11 +42,11 @@ This project brings intelligence to the process by combining **AI-based object d
 
 ## 💻 Software & Libraries
 
-- **Arduino IDE** – For writing and uploading the servo control code.  
-- **Python** – For running the object detection and communication logic.  
-- **OpenCV** – To handle webcam input and image frames.  
-- **YOLOv8 (Ultralytics)** – For object (fish) detection.  
-- **PySerial** – To send the fish count to Arduino through serial communication.  
-- *(Future)* **Blynk** – For IoT-based mobile control.
+- **Arduino IDE** - For writing and uploading the servo control code.  
+- **Python** - For running the object detection and communication logic.  
+- **OpenCV** - To handle webcam input and image frames.  
+- **YOLOv8 (Ultralytics)** - For object (fish) detection.  
+- **PySerial** - To send the fish count to Arduino through serial communication.  
+- *(Future)* **Blynk** - For IoT-based mobile control.
 
 ---
