@@ -58,5 +58,4 @@ This project brings intelligence to the process by combining **AI-based object d
 ---
 
 ## Demo Video
-  <video src="assets/circuit.mp4" width="600" controls></video>
-  <video src="assets/detection.mp4" width="600" controls></video>
+  (https://github.com/RankMansi/Smart-Fish-Feeder-System-IoT-Enabled-Aquarium/blob/master/assets/circuit.mp4)
