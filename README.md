@@ -55,3 +55,8 @@ This project brings intelligence to the process by combining **AI-based object d
   <img src="assets/image.png" alt="Setup" width="400">
   <img src="assets/image2.png" alt="Servo Action" width="500">
   
+---
+
+## Demo Video
+  <video src="assets/circuit.mp4" width="600" controls></video>
+  <video src="assets/detection.mp4" width="600" controls></video>
