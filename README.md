@@ -52,6 +52,8 @@ This project brings intelligence to the process by combining **AI-based object d
 ---
 
 ## Circuit Design
-![ESP32 Module](assets/image.png)
-![Arduino](assets/image2.png)
+<p align="center">
+  <img src="assets/image.png" alt="Setup" width="400">
+  <img src="assets/image2.png" alt="Servo Action" width="400">
+</p>
   
