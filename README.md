@@ -38,7 +38,6 @@ This project introduces an **intelligent feeding mechanism** that combines **AI-
   2. YOLO model detects objects (currently general detection).  
   3. The number of detected fish (objects) is counted in Python.  
   4. Count is sent to Arduino via serial port.  
-  5. Arduino rotates the servo motor the same number of times → food is dispensed.  
-  6. The cycle repeats every **2 hours** automatically.
+  5. Arduino rotates the servo motor the same number of times → food is dispensed.
 
 ---
