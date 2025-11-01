@@ -54,8 +54,3 @@ This project brings intelligence to the process by combining **AI-based object d
 ## Circuit Design
   <img src="assets/image.png" alt="Setup" width="400">
   <img src="assets/image2.png" alt="Servo Action" width="500">
-  
----
-
-## Demo Video
-  (https://github.com/RankMansi/Smart-Fish-Feeder-System-IoT-Enabled-Aquarium/blob/master/assets/circuit.mp4)
